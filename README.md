@@ -1,5 +1,6 @@
-# Car detection with YOLO
-This is week 3 programming assignment of Course 4 in the Deep Learning Specialization provided by Coursera.
+# Car Detection with YOLO
+
+### This was intended for the Week 3 programming assignment on Convolutional Neural Network for [deeplearning.ai](https://www.coursera.org/specializations/deep-learning?).
 
 ![Screenshot 1](/images/preview.png)
 
